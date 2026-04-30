@@ -1,0 +1,6 @@
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\bin\Debug\DTO.dll
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\bin\Debug\DTO.pdb
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\obj\Debug\DTO.dll
+D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DTO\obj\Debug\DTO.pdb
