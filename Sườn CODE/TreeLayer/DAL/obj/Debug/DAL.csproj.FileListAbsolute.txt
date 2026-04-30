@@ -1,9 +1,0 @@
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\bin\Debug\DAL.dll
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\bin\Debug\DAL.pdb
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\bin\Debug\DTO.dll
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\bin\Debug\DTO.pdb
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\obj\Debug\DAL.csproj.Up2Date
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\obj\Debug\DAL.dll
-D:\HỌC KỲ 4\Đồ án môn học\Windows Form\CODE\TreeLayer\DAL\obj\Debug\DAL.pdb
